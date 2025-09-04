@@ -59,11 +59,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf&output=ts
 #EXTINF:-1 tvg-id="",Nickelodeon Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5108-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5730720c-9e54-41d9-b73d-eab8fdac7291&output=ts
-#EXTINF:-1 tvg-id="ToonamiAftermath.us@East",Toonami Aftermath East (480p)
+#EXTINF:-1 tvg-id="ToonamiAftermathEast.us",Toonami Aftermath East (480p)
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8&output=ts
-#EXTINF:-1 tvg-id="ToonamiAftermath.us@West",Toonami Aftermath West (480p)
+#EXTINF:-1 tvg-id="ToonamiAftermathWest.us",Toonami Aftermath West (480p)
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8&output=ts
-#EXTINF:-1 tvg-id="ToonamiAftermathMovie.us@East",Toonami Aftermath Movie (480p)
+#EXTINF:-1 tvg-id="ToonamiAftermathMovie.us",Toonami Aftermath Movie (480p)
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8&output=ts
 #EXTINF:-1 tvg-id="AnimeAllDay.us",Anime All Day
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356&output=ts
