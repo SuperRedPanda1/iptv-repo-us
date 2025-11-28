@@ -7,21 +7,21 @@ https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
 https://nbcu-nbcsanfrancisconews-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KGODT1247News.us",ABC 7 Bay Area and San Francisco News (KGO-DT1) (720p)
 https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8
-#EXTINF:-1 tvg-id="ABC-KMBCDT1.us",KMBC-DT1 (720p)
+#EXTINF:-1 tvg-id="ABC-KMBCDT1.us",ABC-KMBC-DT1 (720p)
 https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
-#EXTINF:-1 tvg-id="MeTV-KMBCDT2.us",KMBC-DT2 (720p)
+#EXTINF:-1 tvg-id="MeTV-KMBCDT2.us",MeTV-KMBC-DT2 (720p)
 https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
-#EXTINF:-1 tvg-id="BounceTV-KMCIDT2.us",KMCI-DT1 (720p)
+#EXTINF:-1 tvg-id="BounceTV-KMCIDT2.us",BounceTV-KMCI-DT1 (720p)
 https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
-#EXTINF:-1 tvg-id="FOX-midwest-KMIZDT3.us",KMIZ-DT3 (720p)
+#EXTINF:-1 tvg-id="FOX-midwest-KMIZDT3.us",FOX-midwest-KMIZ-DT3 (720p)
 https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
 #EXTINF:-1 tvg-id="CBSNewsBayArea.us",CBS News Bay Area
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1afb21486df0007abc57c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5bd2f615-6b6e-4064-999c-18f8e5fef312
-#EXTINF:-1 tvg-id="CBS-KRCGDT1.us",KRCG-DT1 (720p)
+#EXTINF:-1 tvg-id="CBS-KRCGDT1.us",CBS-KRCG-DT1 (720p)
 https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
 #EXTINF:-1 tvg-id="CometTV.us",CometTV (720p)
 https://fl3.moveonjoy.com/COMET/index.m3u8
-#EXTINF:-1 tvg-id="NBC-KSHBDT1.us",KSHB-DT1 (720p)
+#EXTINF:-1 tvg-id="NBC-KSHBDT1.us",NBC-KSHB-DT1 (720p)
 https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
 #EXTINF:-1 tvg-id="CoziTV.us",Cozi TV
 https://fl3.moveonjoy.com/COZI_TV/index.m3u8
@@ -195,3 +195,7 @@ https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
 https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Loupe4K.us",Loupe 4K (2160p)
 https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+#EXTM3U
+https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/aswest.us.m3u8
+#EXTM3U
+https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tbswest.us.m3u8
